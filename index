@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <title> Resume </title>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h2> About Me </h2>
+        <p>I am a croupier at Crown Melbourne for 12 months. 
+        Though completion in Diploma of International Business at RMIT University. 
+        I found myself leaning towards an interest in information technology. As a 
+        self-motivated and hard-working person (Also a computer geek). I took my own 
+        personal time and have learnt langauges such JS, HTML and CSS. Currently 
+        I am futher expanding my abilities and knowledge by understanding the full 
+        skills required to efficiently operate systems such as Python, C++ and SQL. 
+        Other notable skills well experienced in are Outlook and OneNote.</p>
+        
+    </body>
+</html>

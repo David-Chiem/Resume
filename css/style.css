@@ -1,0 +1,60 @@
+/* Index Page Start */
+.backgroundphoto {
+    background-image: url(../images/IMG_20210629_084842.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-clip: padding-box;
+}   
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+    padding: 10px;
+}
+
+p{
+    font-size: 20px;
+}
+.contact{
+    text-align: left;
+    color: #f1f1f1;
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 35px;
+    padding-left: 20px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-right: 15px;
+    margin-right: 20px;
+}
+.aboutme {
+    text-align: left;
+    color: #f1f1f1;
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 35px;
+    width: 1000px;
+    padding-left: 25px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-right: 5px;
+    
+}
+.columnintro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.resumetitle{
+    color:cornsilk
+}
